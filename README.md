@@ -1,2 +1,1 @@
-# CompactLogic
-A Logic World mod with components that provide logic, arithmetic and memory behaviour.
+## Nothing here (yet), please wait patiently for Logic World to release
